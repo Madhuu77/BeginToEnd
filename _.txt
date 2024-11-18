@@ -1,0 +1,20 @@
+"=>For the following scenario you are require to build a predictive model ,which machine learning technique or algorithm can be applied or best suited for stated problems.
+
+ Justify your recommendations.
+
+->Predicting the food delivery time.
+->Predicting weather the transaction fraudulent.
+->Predicting the credit limit of a credit card application.
+->Predicting Natural Disaster.
+
+
+Answer=>
+
+1. Predicting the Food Delivery Time
+Recommended Algorithm: Regression Algorithms (e.g., Linear Regression, Random Forest Regressor, Gradient Boosting Regressor)
+
+Justification:
+
+->Nature of the Problem: This is a regression problem because the target variable (delivery time) is continuous.
+->Feature Types: Likely features include distance, traffic conditions, restaurant preparation time, delivery person availability, etc.
+->Linear Regression: Useful if the relationship between features and delivery time is approximately linear.
